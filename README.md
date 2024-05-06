@@ -75,6 +75,7 @@ Typez Stealer is a stealer that has many features, it can steal pws, cookies etc
 ![image](https://i.postimg.cc/4yLRf3DS/1.png)
 ![image](https://i.postimg.cc/ZKnhfr3t/2.png)
 ![image](https://i.postimg.cc/44Bgb8YQ/3.png)
+![image](https://i.postimg.cc/2ysyk2RJ/4.png)
 
 ---
 
