@@ -6,7 +6,7 @@
 
 <p align="center">
 Typez Stealer is a stealer that has many features, it can steal pws, cookies etc. <br>
-<a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple"/></a>
+<a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/csharp-black?style=flat-square&logo=python&logoColor=green"/></a>
 <a href = "https://developer.mozilla.org/de/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript"/></a>
 </p>
 
