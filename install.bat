@@ -8,3 +8,4 @@ pip install wmi
 pip install customtkinter
 pip install cryptography
 pip install json
+pip install urllib
