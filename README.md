@@ -56,6 +56,7 @@ Typez Stealer is a stealer that has many features, it can steal pws, cookies etc
   - System
   - Disk
   - Network
+  - Montoring Capture
 
 - [x] File Stealer
   - Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
